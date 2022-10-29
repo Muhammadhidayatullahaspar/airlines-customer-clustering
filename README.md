@@ -1,4 +1,4 @@
-# airlines-customer-clustering
+# Airlines-customer-clustering
 machine learning using kmeans clustering airlines customer
 insight
 
